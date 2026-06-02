@@ -1,0 +1,257 @@
+You are an expert Prompt Engineer, Website Copywriter, Career Branding Consultant, SEO Specialist, and Conversion Optimization Expert.
+
+Your task is to generate complete website content for a professional career guidance and career development platform.
+
+BUSINESS INFORMATION
+
+Business Name:
+Career Focus
+
+Location:
+India
+
+Industry:
+Career Guidance and Professional Development
+
+Services:
+- Career Counselling
+- Career Development Programs
+- Interview Preparation
+- Resume/CV Writing
+- Study Abroad Guidance
+- Competitive Exam Coaching
+
+Target Audience:
+- Students
+- Fresh Graduates
+- Job Seekers
+- Working Professionals
+- Career Changers
+
+Business Goals:
+- Generate student inquiries
+- Increase consultation bookings
+- Build trust and credibility
+- Improve career outcomes for users
+- Convert visitors into clients
+
+Tone:
+- Professional
+- Trustworthy
+- Motivational
+- Easy to Understand
+- Human-Centered
+
+IMPORTANT REQUIREMENTS
+
+Create content that sounds natural and professional.
+
+Avoid generic AI-generated wording.
+
+Focus on:
+- Career growth
+- Personal development
+- Professional success
+- Skill building
+- Confidence building
+- Real-world outcomes
+
+====================================================
+
+SECTION 1 – HOMEPAGE
+
+Generate:
+
+1. Hero Headline
+2. Hero Subheadline
+3. Primary CTA
+4. Secondary CTA
+5. Introduction Section
+6. Why Choose Career Focus
+7. Key Benefits
+8. Success Statistics
+9. Featured Services Preview
+
+====================================================
+
+SECTION 2 – ABOUT PAGE
+
+Generate:
+
+1. About Us Heading
+2. Company Introduction
+3. Mission Statement
+4. Vision Statement
+5. Core Values
+6. Why We Started
+7. What Makes Us Different
+
+====================================================
+
+SECTION 3 – SERVICES PAGE
+
+For each service provide:
+
+Service Name
+
+Overview
+
+Who It Is For
+
+Key Features
+
+Benefits
+
+Expected Outcomes
+
+Services:
+
+1. Career Counselling
+2. Career Development Programs
+3. Interview Preparation
+4. Resume Writing
+5. Study Abroad Guidance
+6. Competitive Exam Coaching
+
+====================================================
+
+SECTION 4 – TESTIMONIALS
+
+Generate 5 realistic testimonials.
+
+Each should include:
+
+- Name
+- Occupation
+- Testimonial
+
+Focus on:
+- Career improvement
+- Interview success
+- Confidence growth
+- Academic success
+
+====================================================
+
+SECTION 5 – STUDENT SUCCESS STORIES
+
+Generate 3 detailed success stories.
+
+Include:
+
+- Challenge
+- Solution
+- Result
+
+====================================================
+
+SECTION 6 – FAQ PAGE
+
+Generate 10 FAQs covering:
+
+- Career Counselling
+- Fees
+- Online Sessions
+- Study Abroad Support
+- Resume Writing
+- Interview Coaching
+- Program Duration
+
+====================================================
+
+SECTION 7 – TRUST SECTION
+
+Generate content that builds trust.
+
+Include:
+
+- Experienced Mentors
+- Personalized Guidance
+- Proven Methodologies
+- Student Success
+- Professional Support
+
+====================================================
+
+SECTION 8 – CALL TO ACTION SECTIONS
+
+Generate:
+
+1. Book Consultation CTA
+2. Career Guidance CTA
+3. Contact CTA
+4. Limited Seats CTA
+5. Career Growth CTA
+
+====================================================
+
+SECTION 9 – CONTACT PAGE
+
+Generate:
+
+- Contact Page Heading
+- Contact Intro
+- Contact Form Labels
+- Office Hours
+- Location Information
+- Consultation Invitation
+
+====================================================
+
+SECTION 10 – SEO CONTENT
+
+Generate:
+
+Meta Title
+
+Meta Description
+
+SEO Keywords
+
+Open Graph Description
+
+====================================================
+
+SECTION 11 – LINKEDIN SHOWCASE CONTENT
+
+Generate a professional LinkedIn post explaining:
+
+- The business problem
+- The solution
+- The role of Prompt Engineering
+- The website content generated
+- The outcomes
+
+====================================================
+
+SECTION 12 – GITHUB README CONTENT
+
+Generate:
+
+Project Overview
+
+Objective
+
+Business Chosen
+
+Tools Used
+
+Prompt Logic
+
+Project Structure
+
+Deliverables
+
+Future Improvements
+
+Conclusion
+
+====================================================
+
+OUTPUT FORMAT
+
+Use proper Markdown formatting.
+
+Generate each section separately.
+
+Ensure all content is website-ready, professional, conversion-focused, and suitable for a real career guidance business.
