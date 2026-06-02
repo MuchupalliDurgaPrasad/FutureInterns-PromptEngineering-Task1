@@ -98,5 +98,5 @@ Successfully created a professional website and content generation system using 
 
 ## Author
 
-Sowjanya
+Muchupalli Durga Prasad
 
